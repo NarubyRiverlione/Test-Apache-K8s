@@ -1,0 +1,1 @@
+helm install my-apache -f values.yaml bitnami/apache

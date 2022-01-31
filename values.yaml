@@ -1,0 +1,6 @@
+cloneHtdocsFromGit:
+  enabled: true
+  repository: "https://github.com/NarubyRiverlione/Test-Apache-K8s.git"
+  branch: "main"
+  enableAutoRefresh: true
+  interval: 60
